@@ -16,19 +16,16 @@ Welcome to my GitHub repository housing a collection of diverse data analysis pr
 
 - **Using Jupyter Notebooks:**
   - Leveraging Jupyter Notebooks as a standard tool for data exploration, analysis, and documentation.
+    
 
 ## Project Titles:
 
 1. **Diverse Meat Consumption Trends:** An exploration of beef, pig, and poultry dynamics across Australia, Japan, and South Africa.
 
-2. **Exploring Diamonds:**
-   - Statistical insights and visualizations in pricing and quality.
+2. **Exploring Diamonds:** Statistical insights and visualizations in pricing and quality.
 
-3. **Comprehensive Exploration and Modeling:**
-   - Unveiling patterns in diabetes data.
+3. **Comprehensive Exploration and Modeling:** Unveiling patterns in diabetes data.
 
-4. **Taxi Trip Analysis:**
-   - From data loading to predictive modeling and feature importance.
+4. **Taxi Trip Analysis:** From data loading to predictive modeling and feature importance.
 
-5. **Unraveling Patterns with k-Nearest Neighbors:**
-   - Understanding, optimizing, and evaluating on the Iris dataset.
+5. **Unraveling Patterns with k-Nearest Neighbors:** Understanding, optimizing, and evaluating on the Iris dataset.
