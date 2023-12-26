@@ -19,8 +19,7 @@ Welcome to my GitHub repository housing a collection of diverse data analysis pr
 
 ## Project Titles:
 
-1. **Diverse Meat Consumption Trends:**
-   - An exploration of beef, pig, and poultry dynamics across Australia, Japan, and South Africa.
+1. **Diverse Meat Consumption Trends:** An exploration of beef, pig, and poultry dynamics across Australia, Japan, and South Africa.
 
 2. **Exploring Diamonds:**
    - Statistical insights and visualizations in pricing and quality.
